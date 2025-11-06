@@ -1,11 +1,11 @@
 # Syeda-Khuteja
 <h1 align="center">👋 Hi, I'm Khuteja Syeda</h1>
-<h3 align="center">Aspiring Data Analyst | Excel | SQL | Python | Power BI</h3>
+<h3 align="center">Data Analyst | Excel | SQL | Python | Power BI</h3>
 
 ---
 
 ### 🧠 About Me  
-I'm an **aspiring Data Analyst** with strong knowledge of **Excel, SQL, Python, and Power BI**.  
+I'm a **Data Analyst** with strong knowledge of **Excel, SQL, Python, and Power BI**.  
 I love exploring data, finding patterns, and turning numbers into meaningful stories.  
 Though I’m a fresher, I’ve worked on multiple **self-learning and practice projects** to sharpen my analytical skills.  
 
