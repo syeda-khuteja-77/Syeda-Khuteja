@@ -1,5 +1,5 @@
 # Syeda-Khuteja
-<h1 align="center">👋 Hi, I'm Khuteja Syeda</h1>
+<h1 align="center">👋 Hi, I'm Khuteja</h1>
 <h3 align="center">Data Analyst | Excel | SQL | Python | Power BI</h3>
 
 ---
